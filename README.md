@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 My name is **Adam**. I'm a passionate and hardworking **3rd-year Computer Science** student at the **National College of Ireland**. I have a deep love for technology and coding, and I'm constantly pushing myself to learn and grow in this ever-evolving field.
 
 ### Languages I Can Use *(Ordered by Proficiency)*
@@ -13,7 +11,7 @@ My name is **Adam**. I'm a passionate and hardworking **3rd-year Computer Scienc
 | ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
 ### My Goal
-My current goal is to become a **front-end web developer**. (Since this is what interests me as of currently)
+My current goal is to become a **front-end web developer**.
 
 Although in the future becoming a **full stack** or **back-end engineer** seems cool too.
 
