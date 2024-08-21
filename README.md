@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is **Adam**, and I'm a passionate and hardworking **3rd-year Computer Science** student at the **National College of Ireland**. I have a deep love for technology and coding, and I'm constantly pushing myself to learn and grow in this ever-evolving field.
+My name is **Adam**. I'm a passionate and hardworking **3rd-year Computer Science** student at the **National College of Ireland**. I have a deep love for technology and coding, and I'm constantly pushing myself to learn and grow in this ever-evolving field.
 
 ### Languages I Can Use *(starting from strongest -> weakest)*
 | Java | HTML | CSS | JavaScript | MySQL |
