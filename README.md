@@ -15,7 +15,6 @@ My current goal is to become a **front-end web developer**.
 
 Although in the future becoming a **full stack** or **back-end engineer** seems cool too.
 
----
 If you're interested in any of the projects I've worked on, feel free to reach out to me at:
 
 📧 **[adamplesca1@gmail.com](mailto:adamplesca1@gmail.com)**
