@@ -13,6 +13,6 @@ My name is **Adam**. I'm a passionate and hardworking **3rd-year Computer Scienc
 ### My Goal
 My current goal is to become a **Software Engineer**.
 
-If you're interested in any of the projects I've worked on, feel free to reach out to me at:
+Feel free to reach out to me at:
 
 📧 **[adamplesca1@gmail.com](mailto:adamplesca1@gmail.com)**
